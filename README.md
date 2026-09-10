@@ -20,7 +20,7 @@ The primary objective is to provide evidence-based insights for optimizing build
 ```text
 ├── EED.csv                        # Dataset (Energy Efficiency Data)
 ├── assignment_script.R            # Complete R analysis pipeline code
-├── Energy_Efficiency_Report.pdf   # Comprehensive research paper & report
+├── Energy_Efficiency_Report   # Comprehensive research paper & report
 └── README.md                      # Project documentation and guide
 ````
 
